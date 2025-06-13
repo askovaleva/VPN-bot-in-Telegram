@@ -15,7 +15,7 @@
 
 ## Документация:
 - 📄 [Описание бота](./Docs/AppDocumentation.md)
-- 📐 [Архитектура проекта] (./ProjectArchitecture/ProjectArchitecture.md)
+- 📐 [Архитектура проекта](./ProjectArchitecture/ProjectArchitecture.md) 
 - ✅ [Тест-план](./TestPlan/TestPlan.md)
 - 🔍 [Тест-кейсы](./TestCases/)
 - ✔️ [Чек-листы](./Checklists/)

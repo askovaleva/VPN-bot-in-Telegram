@@ -11,6 +11,6 @@
 ## Документация:
 - 📄 [Описание бота](./Docs/AppDocumentation.md)
 - ✅ [Тест-план](./TestPlan/TestPlan.md)
-- 🔍 [Тест-кейсы](./TestCases/GenerateConfig.md)
-- ✔️ [Чек-листы](./Checklists/Checklist.md)
+- 🔍 [Тест-кейсы](./TestCases/)
+- ✔️ [Чек-листы](./Checklists/)
 - 🐞 [Баги](./BugReports/)
